@@ -1,2 +1,2 @@
-<img src="H17IBanner.jpg">
+<img src="../H17IBanner.jpg">
 Under construction...
